@@ -16,4 +16,7 @@ This dataset has a total of 6714 images distributed over 9 Categories.
 ## References:
 - [Transfer Learning - Tensorflow tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [Deep Shrooms - by Teemu Koivisto, Tuomo Nieminen, Jonas Harjunpää](https://tuomonieminen.github.io/deep-shrooms/)
-- [Data Augmentation using keras and tensorflow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)
+- [Data Augmentation using keras and tensorflow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)  
+
+## Licence
+- Licensed under [MIT License](LICENSE)
